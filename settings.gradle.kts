@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "exampreparation"
+rootProject.name = "LoginPage"
 include(":app")
  
